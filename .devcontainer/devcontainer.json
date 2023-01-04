@@ -1,5 +1,5 @@
 {
-  "name": "mogens-meltano",
+  "name": "my-first-meltano",
   
   "build": {
     "dockerfile": "Dockerfile"
@@ -7,7 +7,7 @@
 
   "customizations": {
     "vscode": {
-      "extensions": ["ms-python.python", "z3z1ma.meltano-power-user"]
+      "extensions": ["ms-python.python", "z3z1ma.meltano-power-user", "ms-vscode.remote-explorer"]
     }
   }
 }
